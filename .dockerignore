@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# Eclipse
+.settings
+.metadata
+
+# Build output
+build
+target
+*.class
+
+# Logs and temporary files
+*.log
+*.tmp
+work
+temp
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,23 @@
+*.class
+
+# Build output
+target/
+build/
+
+# Eclipse generated metadata
+.metadata/
+
+# Temporary files
+*.tmp
+*.log
+
+# Tomcat generated files
+work/
+temp/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# MySQL JDBC driver - install locally
+src/main/webapp/WEB-INF/lib/*.jar
